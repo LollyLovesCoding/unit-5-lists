@@ -19,3 +19,7 @@ for i in range(len(list1)):
 print("\nList 2: ", end="")
 for i in range(len(list2)):
     print(list2[i], end=" ")
+
+# This works too:
+# list1 = [5, 6, 7, 8]
+# list2 = list1
